@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (3553023 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="55.7683400" minlon="48.9934400" maxlat="55.7769300" maxlon="49.0105600"/>
+ <node id="951620709" visible="true" version="4" changeset="95029322" timestamp="2020-11-30T08:46:12Z" user="EarlOMeath" uid="11187534" lat="55.7735623" lon="49.0903101">
+  <tag k="amenity" v="ferry_terminal"/>
+  <tag k="cargo" v="passengers"/>
+  <tag k="mooring" v="yes"/>
+ </node>
+ <node id="2385062268" visible="true" version="4" changeset="70849306" timestamp="2019-06-02T06:38:37Z" user="ok_escudo" uid="6389208" lat="55.7728504" lon="48.9911946">
+  <tag k="amenity" v="ferry_terminal"/>
+ </node>
+ <node id="3859215017" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.7769315" lon="49.0879508"/>
+ <node id="3859215018" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.7771909" lon="49.0815885"/>
+ <node id="6077891917" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:09Z" user="misha yakin" uid="384109" lat="55.7745697" lon="49.0109968"/>
+ <node id="6077891918" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:09Z" user="misha yakin" uid="384109" lat="55.7722765" lon="48.9934015"/>
+ <node id="6077891919" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:09Z" user="misha yakin" uid="384109" lat="55.7723851" lon="48.9972424"/>
+ <node id="6077891920" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:09Z" user="misha yakin" uid="384109" lat="55.7689331" lon="49.0570879"/>
+ <node id="6077891921" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:09Z" user="misha yakin" uid="384109" lat="55.7726869" lon="49.0428185"/>
+ <node id="6077891922" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:09Z" user="misha yakin" uid="384109" lat="55.7758731" lon="49.0771293"/>
+ <node id="6077902558" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:11Z" user="misha yakin" uid="384109" lat="55.7748352" lon="49.0179920"/>
+ <node id="6077902559" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:11Z" user="misha yakin" uid="384109" lat="55.7689331" lon="49.0611863"/>
+ <node id="6077902560" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:11Z" user="misha yakin" uid="384109" lat="55.7773937" lon="49.0855837"/>
+ <node id="6077902561" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:11Z" user="misha yakin" uid="384109" lat="55.7748472" lon="49.0885234"/>
+ <way id="680169752" visible="true" version="1" changeset="68639920" timestamp="2019-03-28T19:10:33Z" user="Burricane" uid="9368471">
+  <nd ref="951620709"/>
+  <nd ref="6077902561"/>
+  <nd ref="3859215017"/>
+  <nd ref="6077902560"/>
+  <nd ref="3859215018"/>
+  <nd ref="6077891922"/>
+  <nd ref="6077902559"/>
+  <nd ref="6077891920"/>
+  <nd ref="6077891921"/>
+  <nd ref="6077902558"/>
+  <nd ref="6077891917"/>
+  <nd ref="6077891919"/>
+  <nd ref="6077891918"/>
+  <nd ref="2385062268"/>
+  <tag k="name" v="Казань - Свияжск"/>
+  <tag k="route" v="ferry"/>
+ </way>
+</osm>

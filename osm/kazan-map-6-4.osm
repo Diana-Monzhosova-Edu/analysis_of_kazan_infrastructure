@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (3401761 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="55.7683400" minlon="49.0276800" maxlat="55.7769300" maxlon="49.0448000"/>
+ <node id="656393988" visible="true" version="3" changeset="95032563" timestamp="2020-11-30T09:28:57Z" user="EarlOMeath" uid="11187534" lat="55.7712807" lon="49.0395141"/>
+ <node id="656393989" visible="true" version="2" changeset="11056190" timestamp="2012-03-21T19:46:20Z" user="acsd" uid="345493" lat="55.7711266" lon="49.0392937"/>
+ <node id="656393990" visible="true" version="3" changeset="95032563" timestamp="2020-11-30T09:28:57Z" user="EarlOMeath" uid="11187534" lat="55.7704570" lon="49.0397125"/>
+ <node id="656393991" visible="true" version="3" changeset="95032563" timestamp="2020-11-30T09:28:57Z" user="EarlOMeath" uid="11187534" lat="55.7707134" lon="49.0417349"/>
+ <node id="656393992" visible="true" version="3" changeset="95032563" timestamp="2020-11-30T09:28:57Z" user="EarlOMeath" uid="11187534" lat="55.7706154" lon="49.0416625"/>
+ <node id="951620709" visible="true" version="4" changeset="95029322" timestamp="2020-11-30T08:46:12Z" user="EarlOMeath" uid="11187534" lat="55.7735623" lon="49.0903101">
+  <tag k="amenity" v="ferry_terminal"/>
+  <tag k="cargo" v="passengers"/>
+  <tag k="mooring" v="yes"/>
+ </node>
+ <node id="1685050156" visible="true" version="2" changeset="95032563" timestamp="2020-11-30T09:28:57Z" user="EarlOMeath" uid="11187534" lat="55.7704238" lon="49.0410322"/>
+ <node id="1685050158" visible="true" version="2" changeset="95032563" timestamp="2020-11-30T09:28:57Z" user="EarlOMeath" uid="11187534" lat="55.7704841" lon="49.0413675"/>
+ <node id="1685050161" visible="true" version="2" changeset="95032563" timestamp="2020-11-30T09:28:57Z" user="EarlOMeath" uid="11187534" lat="55.7706251" lon="49.0414281"/>
+ <node id="1685050164" visible="true" version="2" changeset="95032563" timestamp="2020-11-30T09:28:57Z" user="EarlOMeath" uid="11187534" lat="55.7707572" lon="49.0416759"/>
+ <node id="1685050167" visible="true" version="2" changeset="95032563" timestamp="2020-11-30T09:28:57Z" user="EarlOMeath" uid="11187534" lat="55.7709367" lon="49.0409034"/>
+ <node id="2385062268" visible="true" version="4" changeset="70849306" timestamp="2019-06-02T06:38:37Z" user="ok_escudo" uid="6389208" lat="55.7728504" lon="48.9911946">
+  <tag k="amenity" v="ferry_terminal"/>
+ </node>
+ <node id="3859215017" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.7769315" lon="49.0879508"/>
+ <node id="3859215018" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.7771909" lon="49.0815885"/>
+ <node id="6077891917" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:09Z" user="misha yakin" uid="384109" lat="55.7745697" lon="49.0109968"/>
+ <node id="6077891918" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:09Z" user="misha yakin" uid="384109" lat="55.7722765" lon="48.9934015"/>
+ <node id="6077891919" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:09Z" user="misha yakin" uid="384109" lat="55.7723851" lon="48.9972424"/>
+ <node id="6077891920" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:09Z" user="misha yakin" uid="384109" lat="55.7689331" lon="49.0570879"/>
+ <node id="6077891921" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:09Z" user="misha yakin" uid="384109" lat="55.7726869" lon="49.0428185"/>
+ <node id="6077891922" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:09Z" user="misha yakin" uid="384109" lat="55.7758731" lon="49.0771293"/>
+ <node id="6077902558" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:11Z" user="misha yakin" uid="384109" lat="55.7748352" lon="49.0179920"/>
+ <node id="6077902559" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:11Z" user="misha yakin" uid="384109" lat="55.7689331" lon="49.0611863"/>
+ <node id="6077902560" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:11Z" user="misha yakin" uid="384109" lat="55.7773937" lon="49.0855837"/>
+ <node id="6077902561" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:11Z" user="misha yakin" uid="384109" lat="55.7748472" lon="49.0885234"/>
+ <node id="6571716693" visible="true" version="1" changeset="71620312" timestamp="2019-06-26T03:33:24Z" user="Eljah" uid="1334425" lat="55.7707484" lon="49.0416132">
+  <tag k="historic" v="memorial"/>
+  <tag k="memorial" v="yes"/>
+  <tag k="name" v="Памятник погибшим яхтсменам"/>
+  <tag k="name:ru" v="Памятник погишим яхтсменам"/>
+  <tag k="name:tt" v="Һәлак булган яхтсмәннәргә"/>
+ </node>
+ <node id="8178977851" visible="true" version="1" changeset="95032563" timestamp="2020-11-30T09:28:57Z" user="EarlOMeath" uid="11187534" lat="55.7706606" lon="49.0417215"/>
+ <node id="8178977852" visible="true" version="1" changeset="95032563" timestamp="2020-11-30T09:28:57Z" user="EarlOMeath" uid="11187534" lat="55.7708070" lon="49.0414962"/>
+ <node id="8178977853" visible="true" version="1" changeset="95032563" timestamp="2020-11-30T09:28:57Z" user="EarlOMeath" uid="11187534" lat="55.7710393" lon="49.0406379"/>
+ <node id="8178977854" visible="true" version="1" changeset="95032563" timestamp="2020-11-30T09:28:57Z" user="EarlOMeath" uid="11187534" lat="55.7712445" lon="49.0402034"/>
+ <node id="8178977855" visible="true" version="1" changeset="95032563" timestamp="2020-11-30T09:28:57Z" user="EarlOMeath" uid="11187534" lat="55.7703966" lon="49.0406004"/>
+ <node id="8178977856" visible="true" version="1" changeset="95032563" timestamp="2020-11-30T09:28:57Z" user="EarlOMeath" uid="11187534" lat="55.7705445" lon="49.0394604"/>
+ <node id="8178977857" visible="true" version="1" changeset="95032563" timestamp="2020-11-30T09:28:57Z" user="EarlOMeath" uid="11187534" lat="55.7706863" lon="49.0392727"/>
+ <node id="8178977858" visible="true" version="1" changeset="95032563" timestamp="2020-11-30T09:28:57Z" user="EarlOMeath" uid="11187534" lat="55.7708221" lon="49.0392244"/>
+ <node id="8178977859" visible="true" version="1" changeset="95032563" timestamp="2020-11-30T09:28:57Z" user="EarlOMeath" uid="11187534" lat="55.7712898" lon="49.0400720"/>
+ <node id="8178977860" visible="true" version="1" changeset="95032563" timestamp="2020-11-30T09:28:57Z" user="EarlOMeath" uid="11187534" lat="55.7712928" lon="49.0398413"/>
+ <node id="8178977861" visible="true" version="1" changeset="95032563" timestamp="2020-11-30T09:28:57Z" user="EarlOMeath" uid="11187534" lat="55.7712521" lon="49.0393853"/>
+ <node id="8178977862" visible="true" version="1" changeset="95032563" timestamp="2020-11-30T09:28:57Z" user="EarlOMeath" uid="11187534" lat="55.7712053" lon="49.0393344"/>
+ <way id="51418638" visible="true" version="7" changeset="95032563" timestamp="2020-11-30T09:28:57Z" user="EarlOMeath" uid="11187534">
+  <nd ref="656393988"/>
+  <nd ref="8178977861"/>
+  <nd ref="8178977862"/>
+  <nd ref="656393989"/>
+  <nd ref="8178977858"/>
+  <nd ref="8178977857"/>
+  <nd ref="8178977856"/>
+  <nd ref="656393990"/>
+  <nd ref="8178977855"/>
+  <nd ref="1685050156"/>
+  <nd ref="1685050158"/>
+  <nd ref="656393992"/>
+  <nd ref="8178977851"/>
+  <nd ref="656393991"/>
+  <nd ref="1685050164"/>
+  <nd ref="8178977852"/>
+  <nd ref="1685050167"/>
+  <nd ref="8178977853"/>
+  <nd ref="8178977854"/>
+  <nd ref="8178977859"/>
+  <nd ref="8178977860"/>
+  <nd ref="656393988"/>
+  <tag k="name" v="остров Маркиз"/>
+  <tag k="name:en" v="Markiz"/>
+  <tag k="name:ru" v="Маркиз"/>
+  <tag k="name:tt" v="Маркиз"/>
+  <tag k="place" v="islet"/>
+  <tag k="wikidata" v="Q4281937"/>
+  <tag k="wikipedia" v="ru:Маркиз (остров)"/>
+ </way>
+ <way id="156240700" visible="true" version="3" changeset="95032563" timestamp="2020-11-30T09:28:57Z" user="EarlOMeath" uid="11187534">
+  <nd ref="656393990"/>
+  <nd ref="8178977855"/>
+  <nd ref="1685050156"/>
+  <nd ref="1685050158"/>
+  <nd ref="1685050161"/>
+  <nd ref="1685050167"/>
+  <nd ref="8178977853"/>
+  <nd ref="8178977854"/>
+  <nd ref="8178977859"/>
+  <nd ref="8178977860"/>
+  <nd ref="656393988"/>
+  <nd ref="8178977861"/>
+  <nd ref="8178977862"/>
+  <nd ref="656393989"/>
+  <nd ref="8178977858"/>
+  <nd ref="8178977857"/>
+  <nd ref="8178977856"/>
+  <nd ref="656393990"/>
+  <tag k="name" v="Маркиз"/>
+  <tag k="name:en" v="Markiz"/>
+  <tag k="name:ru" v="Маркиз"/>
+  <tag k="name:tt" v="Маркиза"/>
+  <tag k="natural" v="wood"/>
+ </way>
+ <way id="680169752" visible="true" version="1" changeset="68639920" timestamp="2019-03-28T19:10:33Z" user="Burricane" uid="9368471">
+  <nd ref="951620709"/>
+  <nd ref="6077902561"/>
+  <nd ref="3859215017"/>
+  <nd ref="6077902560"/>
+  <nd ref="3859215018"/>
+  <nd ref="6077891922"/>
+  <nd ref="6077902559"/>
+  <nd ref="6077891920"/>
+  <nd ref="6077891921"/>
+  <nd ref="6077902558"/>
+  <nd ref="6077891917"/>
+  <nd ref="6077891919"/>
+  <nd ref="6077891918"/>
+  <nd ref="2385062268"/>
+  <tag k="name" v="Казань - Свияжск"/>
+  <tag k="route" v="ferry"/>
+ </way>
+ <relation id="420228" visible="true" version="20" changeset="95597582" timestamp="2020-12-10T07:46:36Z" user="PulauIndah" uid="11387799">
+  <member type="way" ref="883117348" role="inner"/>
+  <member type="way" ref="883117349" role="inner"/>
+  <member type="way" ref="883117352" role="inner"/>
+  <member type="way" ref="883117351" role="inner"/>
+  <member type="way" ref="883117350" role="inner"/>
+  <member type="way" ref="883111435" role="inner"/>
+  <member type="way" ref="883111436" role="inner"/>
+  <member type="way" ref="883111437" role="inner"/>
+  <member type="way" ref="190845711" role="inner"/>
+  <member type="way" ref="190845714" role="inner"/>
+  <member type="way" ref="190845712" role="inner"/>
+  <member type="way" ref="190845719" role="inner"/>
+  <member type="way" ref="162829582" role="outer"/>
+  <member type="way" ref="302415049" role="outer"/>
+  <member type="way" ref="302415047" role="outer"/>
+  <member type="way" ref="157056735" role="outer"/>
+  <member type="way" ref="883070697" role="outer"/>
+  <member type="way" ref="33194857" role="outer"/>
+  <member type="way" ref="162829571" role="outer"/>
+  <member type="way" ref="162829564" role="inner"/>
+  <member type="way" ref="51418635" role="inner"/>
+  <member type="way" ref="51418637" role="inner"/>
+  <member type="way" ref="51418640" role="inner"/>
+  <member type="way" ref="51418638" role="inner"/>
+  <member type="way" ref="51418642" role="inner"/>
+  <member type="way" ref="59090905" role="inner"/>
+  <member type="way" ref="120265676" role="inner"/>
+  <member type="way" ref="162744713" role="inner"/>
+  <member type="way" ref="162744721" role="inner"/>
+  <member type="way" ref="162744747" role="inner"/>
+  <member type="way" ref="162744754" role="inner"/>
+  <member type="way" ref="162744738" role="inner"/>
+  <member type="way" ref="162744756" role="inner"/>
+  <member type="way" ref="162744718" role="inner"/>
+  <member type="way" ref="162744748" role="inner"/>
+  <member type="way" ref="162744726" role="inner"/>
+  <member type="way" ref="162744715" role="inner"/>
+  <member type="way" ref="162744743" role="inner"/>
+  <member type="way" ref="162744731" role="inner"/>
+  <member type="way" ref="162744752" role="inner"/>
+  <member type="way" ref="162744745" role="inner"/>
+  <member type="way" ref="162744734" role="inner"/>
+  <member type="way" ref="162744722" role="inner"/>
+  <member type="way" ref="190843534" role="inner"/>
+  <member type="way" ref="190843520" role="inner"/>
+  <member type="way" ref="190843549" role="inner"/>
+  <member type="way" ref="190843526" role="inner"/>
+  <member type="way" ref="190843527" role="inner"/>
+  <member type="way" ref="190843531" role="inner"/>
+  <member type="way" ref="190843544" role="inner"/>
+  <member type="way" ref="116915375" role="inner"/>
+  <member type="way" ref="116915377" role="inner"/>
+  <member type="way" ref="190843532" role="inner"/>
+  <member type="way" ref="190843506" role="inner"/>
+  <member type="way" ref="190843522" role="inner"/>
+  <member type="way" ref="190843524" role="inner"/>
+  <member type="way" ref="190843533" role="inner"/>
+  <member type="way" ref="190843517" role="inner"/>
+  <member type="way" ref="190843516" role="inner"/>
+  <member type="way" ref="190843523" role="inner"/>
+  <member type="way" ref="190845715" role="inner"/>
+  <member type="way" ref="190843510" role="inner"/>
+  <member type="way" ref="190843537" role="inner"/>
+  <tag k="int_name" v="Kuybyshev Reservoir"/>
+  <tag k="name" v="Куйбышевское водохранилище"/>
+  <tag k="name:be" v="Куйбышаўскае вадасховішча"/>
+  <tag k="name:ca" v="Embassament de Kúibixev"/>
+  <tag k="name:cs" v="Kujbyševská přehrada"/>
+  <tag k="name:cv" v="Куйбышев шыв усравĕ"/>
+  <tag k="name:de" v="Kuibyschewer Stausee"/>
+  <tag k="name:en" v="Kuybyshev Reservoir"/>
+  <tag k="name:eo" v="Kujbiŝeva Rezervujo"/>
+  <tag k="name:es" v="Embalse de Kúibyshev"/>
+  <tag k="name:fr" v="Réservoir de Kouïbychev"/>
+  <tag k="name:ka" v="კუიბიშევის წყალსაცავი"/>
+  <tag k="name:lt" v="Kuibyševo tvenkinys"/>
+  <tag k="name:pl" v="Zbiornik Kujbyszewski"/>
+  <tag k="name:ro" v="Barajul Kuibâșev"/>
+  <tag k="name:ru" v="Куйбышевское водохранилище"/>
+  <tag k="name:sr" v="Кујбишевско језеро"/>
+  <tag k="name:tt" v="Куйбышев сусаклагычы"/>
+  <tag k="name:uk" v="Куйбишевське водосховище"/>
+  <tag k="natural" v="water"/>
+  <tag k="type" v="multipolygon"/>
+  <tag k="water" v="reservoir"/>
+  <tag k="wikidata" v="Q745937"/>
+  <tag k="wikipedia" v="ru:Куйбышевское водохранилище"/>
+ </relation>
+</osm>

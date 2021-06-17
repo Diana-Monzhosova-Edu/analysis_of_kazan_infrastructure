@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (3425198 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="55.7168000" minlon="49.0105600" maxlat="55.7253900" maxlon="49.0276800"/>
+ <node id="951620709" visible="true" version="4" changeset="95029322" timestamp="2020-11-30T08:46:12Z" user="EarlOMeath" uid="11187534" lat="55.7735623" lon="49.0903101">
+  <tag k="amenity" v="ferry_terminal"/>
+  <tag k="cargo" v="passengers"/>
+  <tag k="mooring" v="yes"/>
+ </node>
+ <node id="3859177457" visible="true" version="6" changeset="93573314" timestamp="2020-11-05T04:33:34Z" user="Guanabacoa" uid="10529658" lat="54.9962362" lon="49.0167642">
+  <tag k="amenity" v="ferry_terminal"/>
+ </node>
+ <node id="3859177458" visible="true" version="3" changeset="64720120" timestamp="2018-11-21T02:48:12Z" user="misha yakin" uid="384109" lat="55.0134892" lon="48.9922627"/>
+ <node id="3859177459" visible="true" version="3" changeset="64720120" timestamp="2018-11-21T02:48:12Z" user="misha yakin" uid="384109" lat="55.0333420" lon="48.9798387"/>
+ <node id="3859177462" visible="true" version="4" changeset="64720120" timestamp="2018-11-21T02:48:12Z" user="misha yakin" uid="384109" lat="55.1972251" lon="49.3161045"/>
+ <node id="3859177463" visible="true" version="3" changeset="64720120" timestamp="2018-11-21T02:48:12Z" user="misha yakin" uid="384109" lat="55.3353743" lon="49.1517413"/>
+ <node id="3859183656" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:12Z" user="misha yakin" uid="384109" lat="55.7596809" lon="49.0741345"/>
+ <node id="3859198657" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:12Z" user="misha yakin" uid="384109" lat="55.6846687" lon="48.9844521"/>
+ <node id="3859198658" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:12Z" user="misha yakin" uid="384109" lat="55.6518487" lon="48.9660629"/>
+ <node id="3859198659" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:12Z" user="misha yakin" uid="384109" lat="55.6201280" lon="48.9656337"/>
+ <node id="3859198660" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:12Z" user="misha yakin" uid="384109" lat="55.5606629" lon="48.9950522"/>
+ <node id="3859198661" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:12Z" user="misha yakin" uid="384109" lat="55.5965237" lon="48.9738091"/>
+ <node id="3859198662" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:12Z" user="misha yakin" uid="384109" lat="55.5126760" lon="49.0384396"/>
+ <node id="3859198664" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:12Z" user="misha yakin" uid="384109" lat="55.1922893" lon="49.3210157"/>
+ <node id="3859198665" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.1879408" lon="49.3224104"/>
+ <node id="3859198666" visible="true" version="3" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.1825595" lon="49.3217619"/>
+ <node id="3859198667" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.1763114" lon="49.3180773"/>
+ <node id="3859198668" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.1573540" lon="49.2935969"/>
+ <node id="3859198669" visible="true" version="3" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.0469490" lon="48.9912987"/>
+ <node id="3859252294" visible="true" version="5" changeset="93459401" timestamp="2020-11-03T06:46:12Z" user="Tinee2" uid="10892450" lat="55.2084482" lon="49.2771253">
+  <tag k="amenity" v="ferry_terminal"/>
+  <tag k="name" v="Камское Устье"/>
+  <tag k="name:ja" v="カムスコエ・ウスチエ"/>
+ </node>
+ <node id="3859252377" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.7598638" lon="49.0737681"/>
+ <node id="3859252378" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.6846887" lon="48.9842789"/>
+ <node id="3859252379" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.6518324" lon="48.9657395"/>
+ <node id="3859252380" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.6201360" lon="48.9654176"/>
+ <node id="3859252381" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.5605980" lon="48.9948361"/>
+ <node id="3859252382" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.5126232" lon="49.0381805"/>
+ <node id="3859252384" visible="true" version="3" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.2666365" lon="49.2066674"/>
+ <node id="3859252385" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.2734224" lon="49.2070953"/>
+ <node id="3859261323" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.2032453" lon="49.3043355"/>
+ <node id="3859261324" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.1970855" lon="49.3159655"/>
+ <node id="3859261325" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.1922843" lon="49.3208150"/>
+ <node id="3859261326" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.1879114" lon="49.3222741"/>
+ <node id="3859261327" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.1826190" lon="49.3215875"/>
+ <node id="3859261328" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.1764193" lon="49.3179182"/>
+ <node id="3859261329" visible="true" version="3" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.0335708" lon="48.9792304"/>
+ <node id="3859261330" visible="true" version="3" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.0134415" lon="48.9921002"/>
+ <node id="3859261331" visible="true" version="3" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.0132599" lon="48.9914815"/>
+ <node id="4632340562" visible="true" version="1" changeset="45480389" timestamp="2017-01-25T16:00:18Z" user="user_751601" uid="751601" lat="55.2083064" lon="49.2784828"/>
+ <node id="4632340563" visible="true" version="1" changeset="45480389" timestamp="2017-01-25T16:00:18Z" user="user_751601" uid="751601" lat="55.2084285" lon="49.2777646"/>
+ <node id="4632340564" visible="true" version="2" changeset="45481339" timestamp="2017-01-25T16:31:55Z" user="user_751601" uid="751601" lat="55.2089703" lon="49.2771799"/>
+ <node id="4632340565" visible="true" version="1" changeset="45480389" timestamp="2017-01-25T16:00:18Z" user="user_751601" uid="751601" lat="55.2096975" lon="49.2768250"/>
+ <node id="4632418473" visible="true" version="1" changeset="45481339" timestamp="2017-01-25T16:31:55Z" user="user_751601" uid="751601" lat="55.2092717" lon="49.2771370"/>
+ <node id="4632484088" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.2638212" lon="49.2064163"/>
+ <node id="4632484307" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.2630467" lon="49.2080632"/>
+ <node id="4632484308" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.2650197" lon="49.2058514"/>
+ <node id="4632484310" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.2644398" lon="49.2051358"/>
+ <node id="4632550930" visible="true" version="2" changeset="64720120" timestamp="2018-11-21T02:48:13Z" user="misha yakin" uid="384109" lat="55.1574868" lon="49.2929816"/>
+ <node id="6077891939" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:10Z" user="misha yakin" uid="384109" lat="55.0002413" lon="49.0140008"/>
+ <node id="6077891940" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:10Z" user="misha yakin" uid="384109" lat="55.0001313" lon="49.0138228"/>
+ <node id="6077891941" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:10Z" user="misha yakin" uid="384109" lat="54.9998967" lon="49.0134430"/>
+ <node id="6077891942" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:10Z" user="misha yakin" uid="384109" lat="55.0471549" lon="48.9909123"/>
+ <node id="6077891943" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:10Z" user="misha yakin" uid="384109" lat="55.0860315" lon="49.1059684"/>
+ <node id="6077891944" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:10Z" user="misha yakin" uid="384109" lat="55.0861789" lon="49.1052817"/>
+ <node id="6077891964" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:10Z" user="misha yakin" uid="384109" lat="55.1215821" lon="49.1875075"/>
+ <node id="6077891965" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:10Z" user="misha yakin" uid="384109" lat="55.1213367" lon="49.1877650"/>
+ <node id="6077891966" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:10Z" user="misha yakin" uid="384109" lat="55.4946101" lon="49.0536332"/>
+ <node id="6077891967" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:10Z" user="misha yakin" uid="384109" lat="55.4946830" lon="49.0538478"/>
+ <node id="6077891968" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:10Z" user="misha yakin" uid="384109" lat="55.4195641" lon="49.0608214"/>
+ <node id="6077891969" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:10Z" user="misha yakin" uid="384109" lat="55.4195153" lon="49.0600490"/>
+ <node id="6077891970" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:10Z" user="misha yakin" uid="384109" lat="55.3818412" lon="49.0824508"/>
+ <node id="6077891971" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:10Z" user="misha yakin" uid="384109" lat="55.3816462" lon="49.0821504"/>
+ <node id="6077891972" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:10Z" user="misha yakin" uid="384109" lat="55.3351008" lon="49.1510295"/>
+ <node id="6077891973" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:10Z" user="misha yakin" uid="384109" lat="55.2531538" lon="49.2223548"/>
+ <node id="6077891974" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:10Z" user="misha yakin" uid="384109" lat="55.2735907" lon="49.2076778"/>
+ <node id="6077891975" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:10Z" user="misha yakin" uid="384109" lat="55.2033655" lon="49.3044090"/>
+ <node id="6077891976" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:10Z" user="misha yakin" uid="384109" lat="55.2217780" lon="49.2656134"/>
+ <node id="6077891977" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:10Z" user="misha yakin" uid="384109" lat="55.3045760" lon="49.1853259"/>
+ <node id="6077891978" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:10Z" user="misha yakin" uid="384109" lat="55.3047362" lon="49.1857266"/>
+ <node id="6077891979" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:10Z" user="misha yakin" uid="384109" lat="55.2219249" lon="49.2665575"/>
+ <node id="6077891980" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:10Z" user="misha yakin" uid="384109" lat="55.2533434" lon="49.2229555"/>
+ <node id="6077902546" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:11Z" user="misha yakin" uid="384109" lat="55.4758376" lon="49.0639114"/>
+ <node id="6077902547" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:11Z" user="misha yakin" uid="384109" lat="55.4759106" lon="49.0643834"/>
+ <node id="6077902548" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:11Z" user="misha yakin" uid="384109" lat="55.4052395" lon="49.0661429"/>
+ <node id="6077902549" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:11Z" user="misha yakin" uid="384109" lat="55.4048984" lon="49.0654562"/>
+ <node id="6077902550" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:11Z" user="misha yakin" uid="384109" lat="55.5964742" lon="48.9736390"/>
+ <node id="6077902552" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:11Z" user="misha yakin" uid="384109" lat="55.7522841" lon="49.0662610"/>
+ <node id="6077902553" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:11Z" user="misha yakin" uid="384109" lat="55.7523324" lon="49.0660572"/>
+ <node id="6077902554" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:11Z" user="misha yakin" uid="384109" lat="55.7322936" lon="49.0512942"/>
+ <node id="6077902555" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:11Z" user="misha yakin" uid="384109" lat="55.7321366" lon="49.0516376"/>
+ <node id="6077902556" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:11Z" user="misha yakin" uid="384109" lat="55.7196176" lon="49.0249442"/>
+ <node id="6077902557" visible="true" version="1" changeset="64720120" timestamp="2018-11-21T02:48:11Z" user="misha yakin" uid="384109" lat="55.7198472" lon="49.0244936"/>
+ <node id="6431430924" visible="true" version="2" changeset="87810877" timestamp="2020-07-10T10:17:30Z" user="GrandTrunkRoad" uid="10653044" lat="55.2642895" lon="49.2038933">
+  <tag k="amenity" v="ferry_terminal"/>
+  <tag k="leisure" v="marina"/>
+  <tag k="name" v="Тенишево"/>
+  <tag k="name:ja" v="テニシェヴォ"/>
+ </node>
+ <way id="382695707" visible="true" version="5" changeset="89268616" timestamp="2020-08-11T20:17:52Z" user="Aulus" uid="2806751">
+  <nd ref="3859177457"/>
+  <nd ref="6077891939"/>
+  <nd ref="3859177458"/>
+  <nd ref="3859177459"/>
+  <nd ref="3859198669"/>
+  <nd ref="6077891943"/>
+  <nd ref="6077891965"/>
+  <nd ref="3859198668"/>
+  <nd ref="3859198667"/>
+  <nd ref="3859198666"/>
+  <nd ref="3859198665"/>
+  <nd ref="3859198664"/>
+  <nd ref="3859177462"/>
+  <nd ref="6077891975"/>
+  <nd ref="6077891979"/>
+  <nd ref="6077891980"/>
+  <nd ref="6077891974"/>
+  <nd ref="6077891978"/>
+  <nd ref="3859177463"/>
+  <nd ref="6077891970"/>
+  <nd ref="6077902548"/>
+  <nd ref="6077891968"/>
+  <nd ref="6077902547"/>
+  <nd ref="6077891967"/>
+  <nd ref="3859198662"/>
+  <nd ref="3859198660"/>
+  <nd ref="3859198661"/>
+  <nd ref="3859198659"/>
+  <nd ref="3859198658"/>
+  <nd ref="3859198657"/>
+  <nd ref="6077902556"/>
+  <nd ref="6077902555"/>
+  <nd ref="6077902552"/>
+  <nd ref="3859183656"/>
+  <nd ref="951620709"/>
+  <tag k="name" v="Казань - Болгары"/>
+  <tag k="route" v="ferry"/>
+ </way>
+ <way id="382704594" visible="true" version="11" changeset="89268616" timestamp="2020-08-11T20:17:52Z" user="Aulus" uid="2806751">
+  <nd ref="951620709"/>
+  <nd ref="3859252377"/>
+  <nd ref="6077902553"/>
+  <nd ref="6077902554"/>
+  <nd ref="6077902557"/>
+  <nd ref="3859252378"/>
+  <nd ref="3859252379"/>
+  <nd ref="3859252380"/>
+  <nd ref="6077902550"/>
+  <nd ref="3859252381"/>
+  <nd ref="3859252382"/>
+  <nd ref="6077891966"/>
+  <nd ref="6077902546"/>
+  <nd ref="6077891969"/>
+  <nd ref="6077902549"/>
+  <nd ref="6077891971"/>
+  <nd ref="6077891972"/>
+  <nd ref="6077891977"/>
+  <nd ref="3859252385"/>
+  <nd ref="3859252384"/>
+  <nd ref="4632484308"/>
+  <nd ref="4632484310"/>
+  <nd ref="6431430924"/>
+  <nd ref="4632484088"/>
+  <nd ref="4632484307"/>
+  <nd ref="6077891973"/>
+  <nd ref="6077891976"/>
+  <nd ref="4632340565"/>
+  <nd ref="4632418473"/>
+  <nd ref="4632340564"/>
+  <nd ref="3859252294"/>
+  <nd ref="4632340563"/>
+  <nd ref="4632340562"/>
+  <nd ref="3859261323"/>
+  <nd ref="3859261324"/>
+  <nd ref="3859261325"/>
+  <nd ref="3859261326"/>
+  <nd ref="3859261327"/>
+  <nd ref="3859261328"/>
+  <nd ref="4632550930"/>
+  <nd ref="6077891964"/>
+  <nd ref="6077891944"/>
+  <nd ref="6077891942"/>
+  <nd ref="3859261329"/>
+  <nd ref="3859261330"/>
+  <nd ref="6077891940"/>
+  <nd ref="3859177457"/>
+  <nd ref="6077891941"/>
+  <nd ref="3859261331"/>
+  <tag k="name" v="Казань - Болгары - Тетюши"/>
+  <tag k="name:en" v="Kazan - Bolgary - Tetyushi"/>
+  <tag k="route" v="ferry"/>
+ </way>
+</osm>
